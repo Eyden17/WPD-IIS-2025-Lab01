@@ -1,0 +1,4 @@
+Eyden Su Diaz - 2023025837
+
+URL del repositorio público en GitHub: https://github.com/Eyden17/WPD-IIS-2025-Lab01
+URL del sitio desplegado (GitHub Pages o Netlify): https://lab01-p01-dpw-2025.netlify.app/
